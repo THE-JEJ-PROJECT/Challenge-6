@@ -18,9 +18,11 @@ Event triggered when shooting a wall (changing color to red):
 
 ![2](https://github.com/user-attachments/assets/6b8eddd2-1919-4a88-9c2b-07671760aae3)
 
-Shooting wall destroys floor panels one by one, while shooting :
+Shooting wall deletes floor panels one by one:
 
 ![4](https://github.com/user-attachments/assets/36c82cc2-d74a-465e-a640-e31dcf9dcf7b)
+
+Shooting Side Walls and Corner Walls:
 
 ![5](https://github.com/user-attachments/assets/4a23881c-c0f4-40e7-9fa3-c7269ad1165e)
 
