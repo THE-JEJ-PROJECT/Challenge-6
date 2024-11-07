@@ -27,10 +27,14 @@ Shooting Side Walls and Corner Walls:
 ![5](https://github.com/user-attachments/assets/4a23881c-c0f4-40e7-9fa3-c7269ad1165e)
 
 Adding the Rainspawner to the game (for raindrops):
+
 ![8](https://github.com/user-attachments/assets/14b6f5e8-a1db-4383-8086-2e620ac87ef5)
+
+Victory screen:
+
 ![6](https://github.com/user-attachments/assets/7e0ddaa1-dfb9-44f1-b577-cc7c36e5ba10)
 
-
+Losing screen:
 
 ![9](https://github.com/user-attachments/assets/549c2fe0-6cd8-4de3-b4da-5b170fd770ff)
 
