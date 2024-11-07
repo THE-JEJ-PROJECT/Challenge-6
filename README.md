@@ -10,7 +10,7 @@ Floor panels are added in a 4x4 grid to form the base of the stage. Each panel i
 
 ![3](https://github.com/user-attachments/assets/c6856eff-feb1-4d13-8afe-813a93ea3fee)
 
-Four enemy spawners are placed in each corner of the stage. These spawners are set to continuously spawn enemies until a specific limit is reached. The placement in the corners allows enemies to enter the game from multiple directions:
+Four enemy spawners are placed in each corner of the stage. These spawners are set to spawn enemies until a specific limit is reached. The placement in the corners allows enemies to enter the game from multiple directions:
 
 ![1](https://github.com/user-attachments/assets/ce154f8f-ee24-4952-9148-101f06bdafe8)
 
@@ -22,11 +22,11 @@ With each wall hit, a random floor panel is deleted:
 
 ![4](https://github.com/user-attachments/assets/36c82cc2-d74a-465e-a640-e31dcf9dcf7b)
 
-Different behaviors are triggered based on whether the player hits a side wall or a corner wall. Hitting a side wall removes a single random floor panel, while hitting a corner wall removes all remaining floor panels at once:
+Different events are triggered based on whether the player hits a side wall or a corner wall. Hitting a side wall removes a single random floor panel, while hitting a corner wall removes all remaining floor panels at once:
 
 ![5](https://github.com/user-attachments/assets/4a23881c-c0f4-40e7-9fa3-c7269ad1165e)
 
-A Rainspawner is added above the stage, periodically dropping raindrops onto the play area. These raindrops interact with other elements. This mechanic adds an additional obstacle for the player.
+A Rainspawner is added above the stage, dropping raindrops onto the play area. These raindrops interact with other elements. This mechanic adds an additional obstacle for the player.
 
 ![8](https://github.com/user-attachments/assets/14b6f5e8-a1db-4383-8086-2e620ac87ef5)
 
