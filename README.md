@@ -10,6 +10,8 @@ Adding floor panels:
 
 ![3](https://github.com/user-attachments/assets/c6856eff-feb1-4d13-8afe-813a93ea3fee)
 
+Putting spawners in the four corners:
+
 ![1](https://github.com/user-attachments/assets/ce154f8f-ee24-4952-9148-101f06bdafe8)
 
 ![2](https://github.com/user-attachments/assets/6b8eddd2-1919-4a88-9c2b-07671760aae3)
