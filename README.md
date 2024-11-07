@@ -2,7 +2,7 @@
 # Joxanniel J. Irizarry Estrella, Eduardo A. Caceres Vazquez, Jeremy J. Sanchez Diaz
 # Prof. David Flores Granados
 
-Building the walls:
+In this step, walls are created to form the boundaries of the game stage. Side walls and corner walls are configured to handle different collision events later on.
 
 ![7](https://github.com/user-attachments/assets/15270985-d50e-4078-b921-78affdcf25b0)
 
