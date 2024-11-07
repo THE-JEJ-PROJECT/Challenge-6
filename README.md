@@ -2,7 +2,7 @@
 # Joxanniel J. Irizarry Estrella, Eduardo A. Caceres Vazquez, Jeremy J. Sanchez Diaz
 # Prof. David Flores Granados
 
-# Building the walls:
+Building the walls:
 
 ![7](https://github.com/user-attachments/assets/15270985-d50e-4078-b921-78affdcf25b0)
 
