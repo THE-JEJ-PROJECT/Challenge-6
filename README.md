@@ -40,3 +40,8 @@ Losing screen:
 
 # scripts:
 
+https://github.com/user-attachments/assets/bde6335f-a265-473b-9885-c49b9e839541
+
+
+
+
