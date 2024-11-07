@@ -6,11 +6,15 @@ Building the walls:
 
 ![7](https://github.com/user-attachments/assets/15270985-d50e-4078-b921-78affdcf25b0)
 
+Adding floor panels:
+
+![3](https://github.com/user-attachments/assets/c6856eff-feb1-4d13-8afe-813a93ea3fee)
+
 ![1](https://github.com/user-attachments/assets/ce154f8f-ee24-4952-9148-101f06bdafe8)
 
 ![2](https://github.com/user-attachments/assets/6b8eddd2-1919-4a88-9c2b-07671760aae3)
 
-![3](https://github.com/user-attachments/assets/c6856eff-feb1-4d13-8afe-813a93ea3fee)
+
 
 ![4](https://github.com/user-attachments/assets/36c82cc2-d74a-465e-a640-e31dcf9dcf7b)
 
